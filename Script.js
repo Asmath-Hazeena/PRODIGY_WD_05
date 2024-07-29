@@ -1,5 +1,5 @@
 const API = "ea9f345563d3cf836184e714f2bf35a1";
-
+//create ur own api
 const dayEl = document.querySelector(".default_day");
 const dateEl = document.querySelector(".default_date");
 const btnEl = document.querySelector(".btn_search");
